@@ -151,19 +151,19 @@ plt.show()
 
 ![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%209.jpg)
 
-![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%201.jpg)
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2010.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2011.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2012.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2013.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2014.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2015.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%2016.jpg)
 
 ## RESULT:
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
