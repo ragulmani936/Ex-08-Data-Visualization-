@@ -133,25 +133,25 @@ plt.show()
 ~~~
 
 # OUPUT
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%201.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%202.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%203.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%204.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%205.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%206.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%207.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%208.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%209.jpg)
 
-![output]()
+![output](https://github.com/ragulmani936/Ex-08-Data-Visualization-/blob/main/img%201.jpg)
 
 ![output]()
 
