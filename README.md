@@ -134,20 +134,36 @@ plt.show()
 
 # OUPUT
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ![output]()
+
 ## RESULT:
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
